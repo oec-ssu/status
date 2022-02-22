@@ -4,19 +4,19 @@
     "url": "https://ipsilon.sgu.ru",
     "icon": "https://favicons.githubusercontent.com/ipsilon.sgu.ru",
     "slug": "ipsilon",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1596,
-    "timeDay": 1927,
-    "timeWeek": 1596,
-    "timeMonth": 1596,
-    "timeYear": 1596,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
+    "time": 1547,
+    "timeDay": 1615,
+    "timeWeek": 1547,
+    "timeMonth": 1547,
+    "timeYear": 1547,
     "dailyMinutesDown": {
-      "2022-02-22": 1
+      "2022-02-22": 20
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://ipsilon-dev.sgu.ru",
     "icon": "https://favicons.githubusercontent.com/ipsilon-dev.sgu.ru",
     "slug": "ipsilon-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1605,
-    "timeDay": 1456,
-    "timeWeek": 1605,
-    "timeMonth": 1605,
-    "timeYear": 1605,
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
+    "time": 1592,
+    "timeDay": 1492,
+    "timeWeek": 1592,
+    "timeMonth": 1592,
+    "timeYear": 1592,
     "dailyMinutesDown": {
-      "2022-02-22": 0
+      "2022-02-22": 20
     }
   },
   {
