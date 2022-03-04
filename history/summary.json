@@ -4,10 +4,10 @@
     "url": "https://ipsilon.sgu.ru",
     "icon": "https://favicons.githubusercontent.com/ipsilon.sgu.ru",
     "slug": "ipsilon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 1807,
@@ -16,6 +16,7 @@
     "timeMonth": 1807,
     "timeYear": 1807,
     "dailyMinutesDown": {
+      "2022-03-04": 1,
       "2022-02-22": 20
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://ipsilon-dev.sgu.ru",
     "icon": "https://favicons.githubusercontent.com/ipsilon-dev.sgu.ru",
     "slug": "ipsilon-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
@@ -36,6 +37,7 @@
     "timeMonth": 1588,
     "timeYear": 1588,
     "dailyMinutesDown": {
+      "2022-03-04": 0,
       "2022-02-22": 20
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://oec-static.sgu.ru/favicon.ico",
     "icon": "https://favicons.githubusercontent.com/oec-static.sgu.ru",
     "slug": "oec-static-sgu-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,6 +57,8 @@
     "timeWeek": 931,
     "timeMonth": 1001,
     "timeYear": 1001,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-04": 0
+    }
   }
 ]
