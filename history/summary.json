@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 1408,
-    "timeDay": 1325,
-    "timeWeek": 1413,
-    "timeMonth": 1317,
-    "timeYear": 1392,
+    "time": 1407,
+    "timeDay": 912,
+    "timeWeek": 1338,
+    "timeMonth": 1316,
+    "timeYear": 1390,
     "dailyMinutesDown": {
       "2023-01-14": 394,
       "2023-01-05": 26,
@@ -30,8 +30,7 @@
       "2022-05-07": 20,
       "2022-04-16": 165,
       "2022-04-15": 60,
-      "2022-03-27": 90,
-      "2022-03-04": 19
+      "2022-03-27": 90
     }
   },
   {
@@ -41,17 +40,16 @@
     "slug": "ipsilon-dev",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1651,
-    "timeDay": 1200,
-    "timeWeek": 1596,
-    "timeMonth": 1621,
-    "timeYear": 1654,
+    "time": 1650,
+    "timeDay": 1076,
+    "timeWeek": 1536,
+    "timeMonth": 1609,
+    "timeYear": 1653,
     "dailyMinutesDown": {
-      "2023-03-03": 6,
       "2023-01-25": 38,
       "2023-01-05": 19,
       "2022-11-02": 18,
@@ -63,8 +61,7 @@
       "2022-06-11": 20,
       "2022-05-07": 20,
       "2022-04-15": 22,
-      "2022-03-27": 90,
-      "2022-03-04": 18
+      "2022-03-27": 90
     }
   },
   {
@@ -78,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 851,
-    "timeDay": 716,
-    "timeWeek": 844,
-    "timeMonth": 852,
-    "timeYear": 845,
+    "time": 850,
+    "timeDay": 592,
+    "timeWeek": 787,
+    "timeMonth": 855,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2023-01-05": 81,
       "2022-11-19": 156,
@@ -95,8 +92,7 @@
       "2022-06-23": 39,
       "2022-06-11": 20,
       "2022-05-07": 19,
-      "2022-04-15": 22,
-      "2022-03-04": 18
+      "2022-04-15": 22
     }
   }
 ]
