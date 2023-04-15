@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipsilon.sgu.ru.ico",
     "slug": "ipsilon",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "97.34%",
+    "uptime": "99.80%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.79%",
-    "time": 1402,
-    "timeDay": 1367,
-    "timeWeek": 1357,
-    "timeMonth": 1360,
+    "time": 1401,
+    "timeDay": 1098,
+    "timeWeek": 1349,
+    "timeMonth": 1357,
     "timeYear": 1388,
     "dailyMinutesDown": {
       "2023-04-13": 38,
@@ -30,8 +30,7 @@
       "2022-06-15": 59,
       "2022-06-11": 21,
       "2022-05-07": 20,
-      "2022-04-16": 165,
-      "2022-04-15": 60
+      "2022-04-16": 165
     }
   },
   {
@@ -45,11 +44,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
-    "time": 1672,
-    "timeDay": 1659,
-    "timeWeek": 1774,
-    "timeMonth": 1748,
-    "timeYear": 1699,
+    "time": 1671,
+    "timeDay": 1414,
+    "timeWeek": 1751,
+    "timeMonth": 1734,
+    "timeYear": 1700,
     "dailyMinutesDown": {
       "2023-04-09": 17,
       "2023-01-25": 38,
@@ -61,8 +60,7 @@
       "2022-06-25": 17,
       "2022-06-23": 40,
       "2022-06-11": 20,
-      "2022-05-07": 20,
-      "2022-04-15": 22
+      "2022-05-07": 20
     }
   },
   {
@@ -76,11 +74,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
-    "time": 850,
-    "timeDay": 830,
-    "timeWeek": 890,
-    "timeMonth": 880,
-    "timeYear": 844,
+    "time": 849,
+    "timeDay": 681,
+    "timeWeek": 874,
+    "timeMonth": 876,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2023-04-09": 17,
       "2023-01-05": 81,
@@ -93,8 +91,7 @@
       "2022-06-25": 17,
       "2022-06-23": 39,
       "2022-06-11": 20,
-      "2022-05-07": 19,
-      "2022-04-15": 22
+      "2022-05-07": 19
     }
   }
 ]
