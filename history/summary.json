@@ -6,14 +6,14 @@
     "slug": "ipsilon",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "98.93%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "99.22%",
-    "time": 1596,
-    "timeDay": 1419,
-    "timeWeek": 1286,
-    "timeMonth": 1632,
+    "time": 1595,
+    "timeDay": 1210,
+    "timeWeek": 1305,
+    "timeMonth": 1634,
     "timeYear": 1602,
     "dailyMinutesDown": {
       "2024-08-27": 15,
@@ -47,8 +47,7 @@
       "2023-12-15": 28,
       "2023-11-12": 17,
       "2023-11-02": 36,
-      "2023-10-17": 29,
-      "2023-08-30": 16
+      "2023-10-17": 29
     }
   },
   {
@@ -63,10 +62,10 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "96.00%",
     "time": 1849,
-    "timeDay": 1232,
-    "timeWeek": 1130,
-    "timeMonth": 1179,
-    "timeYear": 1821,
+    "timeDay": 1028,
+    "timeWeek": 1141,
+    "timeMonth": 1184,
+    "timeYear": 1818,
     "dailyMinutesDown": {
       "2024-08-10": 125,
       "2024-07-15": 46,
@@ -114,9 +113,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.85%",
     "time": 941,
-    "timeDay": 937,
-    "timeWeek": 897,
-    "timeMonth": 960,
+    "timeDay": 804,
+    "timeWeek": 903,
+    "timeMonth": 953,
     "timeYear": 955,
     "dailyMinutesDown": {
       "2024-08-10": 125,
