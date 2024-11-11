@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipsilon.sgu.ru.ico",
     "slug": "ipsilon",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.11%",
     "time": 1570,
-    "timeDay": 1585,
-    "timeWeek": 1618,
-    "timeMonth": 1489,
-    "timeYear": 1565,
+    "timeDay": 1217,
+    "timeWeek": 1534,
+    "timeMonth": 1476,
+    "timeYear": 1566,
     "dailyMinutesDown": {
       "2024-10-02": 19,
       "2024-09-30": 16,
@@ -51,8 +51,7 @@
       "2024-01-15": 50,
       "2024-01-09": 27,
       "2023-12-17": 167,
-      "2023-12-15": 28,
-      "2023-11-12": 17
+      "2023-12-15": 28
     }
   },
   {
@@ -61,16 +60,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipsilon-dev.sgu.ru.ico",
     "slug": "ipsilon-dev",
     "status": "up",
-    "uptime": "98.39%",
+    "uptime": "98.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "95.88%",
-    "time": 1757,
-    "timeDay": 1998,
-    "timeWeek": 1183,
+    "time": 1755,
+    "timeDay": 1065,
+    "timeWeek": 1190,
     "timeMonth": 1214,
-    "timeYear": 1692,
+    "timeYear": 1691,
     "dailyMinutesDown": {
       "2024-10-25": 20,
       "2024-09-30": 15,
@@ -108,8 +107,7 @@
       "2024-03-29": 81,
       "2024-03-23": 15,
       "2024-01-16": 56,
-      "2024-01-15": 17,
-      "2023-11-12": 16
+      "2024-01-15": 17
     }
   },
   {
@@ -124,10 +122,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 950,
-    "timeDay": 1653,
-    "timeWeek": 952,
-    "timeMonth": 953,
-    "timeYear": 963,
+    "timeDay": 821,
+    "timeWeek": 965,
+    "timeMonth": 941,
+    "timeYear": 964,
     "dailyMinutesDown": {
       "2024-09-26": 543,
       "2024-09-06": 19,
@@ -143,8 +141,7 @@
       "2024-04-04": 63,
       "2024-03-23": 15,
       "2024-01-16": 55,
-      "2024-01-15": 17,
-      "2023-11-12": 16
+      "2024-01-15": 17
     }
   }
 ]
