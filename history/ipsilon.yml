@@ -1,7 +1,7 @@
 url: https://ipsilon.sgu.ru
-status: up
-code: 200
-responseTime: 1914
-lastUpdated: 2024-12-18T23:13:31.293Z
+status: down
+code: 500
+responseTime: 1705
+lastUpdated: 2024-12-19T12:33:18.354Z
 startTime: 2022-02-19T20:14:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
