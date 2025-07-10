@@ -6,14 +6,14 @@
     "slug": "ipsilon",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "98.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.82%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.46%",
-    "time": 1597,
-    "timeDay": 1338,
-    "timeWeek": 1574,
-    "timeMonth": 1585,
+    "time": 1596,
+    "timeDay": 1682,
+    "timeWeek": 1561,
+    "timeMonth": 1493,
     "timeYear": 1595,
     "dailyMinutesDown": {
       "2025-07-08": 20,
@@ -43,8 +43,7 @@
       "2024-07-31": 554,
       "2024-07-15": 46,
       "2024-07-12": 18,
-      "2024-07-11": 46,
-      "2024-07-10": 18
+      "2024-07-11": 46
     }
   },
   {
@@ -54,15 +53,15 @@
     "slug": "ipsilon-dev",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "98.64%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.39%",
-    "time": 1401,
-    "timeDay": 1172,
-    "timeWeek": 1392,
-    "timeMonth": 1285,
-    "timeYear": 1356,
+    "time": 1398,
+    "timeDay": 1557,
+    "timeWeek": 1436,
+    "timeMonth": 1295,
+    "timeYear": 1357,
     "dailyMinutesDown": {
       "2025-07-08": 20,
       "2025-06-18": 20,
@@ -86,8 +85,7 @@
       "2024-08-31": 16,
       "2024-08-10": 125,
       "2024-07-15": 46,
-      "2024-07-11": 46,
-      "2024-07-10": 20
+      "2024-07-11": 46
     }
   },
   {
@@ -97,14 +95,14 @@
     "slug": "oec-static-sgu-ru",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "98.66%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.74%",
     "time": 1007,
-    "timeDay": 968,
-    "timeWeek": 1168,
-    "timeMonth": 1091,
+    "timeDay": 1275,
+    "timeWeek": 1219,
+    "timeMonth": 1082,
     "timeYear": 1015,
     "dailyMinutesDown": {
       "2025-07-08": 19,
@@ -121,8 +119,7 @@
       "2024-08-31": 15,
       "2024-08-10": 125,
       "2024-07-15": 45,
-      "2024-07-11": 45,
-      "2024-07-10": 19
+      "2024-07-11": 45
     }
   }
 ]
