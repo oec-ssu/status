@@ -6,15 +6,15 @@
     "slug": "ipsilon",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "98.67%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.56%",
     "time": 1580,
-    "timeDay": 1266,
-    "timeWeek": 1247,
-    "timeMonth": 1404,
-    "timeYear": 1548,
+    "timeDay": 1605,
+    "timeWeek": 1243,
+    "timeMonth": 1411,
+    "timeYear": 1549,
     "dailyMinutesDown": {
       "2025-08-29": 19,
       "2025-08-22": 248,
@@ -39,8 +39,7 @@
       "2024-09-26": 544,
       "2024-09-19": 20,
       "2024-09-06": 20,
-      "2024-09-05": 17,
-      "2024-08-31": 16
+      "2024-09-05": 17
     }
   },
   {
@@ -49,16 +48,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipsilon-dev.sgu.ru.ico",
     "slug": "ipsilon-dev",
     "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "98.70%",
+    "uptime": "98.64%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.43%",
-    "time": 1384,
-    "timeDay": 1059,
-    "timeWeek": 1154,
-    "timeMonth": 1208,
-    "timeYear": 1350,
+    "time": 1386,
+    "timeDay": 2102,
+    "timeWeek": 1178,
+    "timeMonth": 1235,
+    "timeYear": 1352,
     "dailyMinutesDown": {
       "2025-08-29": 19,
       "2025-08-12": 24,
@@ -80,8 +79,7 @@
       "2024-09-25": 17,
       "2024-09-19": 36,
       "2024-09-06": 20,
-      "2024-09-05": 17,
-      "2024-08-31": 16
+      "2024-09-05": 17
     }
   },
   {
@@ -91,14 +89,14 @@
     "slug": "oec-static-sgu-ru",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "98.72%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.78%",
-    "time": 1010,
-    "timeDay": 1020,
-    "timeWeek": 977,
-    "timeMonth": 959,
+    "time": 1011,
+    "timeDay": 1039,
+    "timeWeek": 970,
+    "timeMonth": 961,
     "timeYear": 1012,
     "dailyMinutesDown": {
       "2025-08-29": 18,
@@ -113,8 +111,7 @@
       "2024-12-23": 88,
       "2024-09-26": 543,
       "2024-09-06": 19,
-      "2024-09-05": 16,
-      "2024-08-31": 15
+      "2024-09-05": 16
     }
   }
 ]
