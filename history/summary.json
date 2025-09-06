@@ -6,14 +6,14 @@
     "slug": "ipsilon",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.56%",
-    "time": 1580,
-    "timeDay": 1316,
-    "timeWeek": 1522,
-    "timeMonth": 1398,
+    "time": 1579,
+    "timeDay": 1311,
+    "timeWeek": 1560,
+    "timeMonth": 1391,
     "timeYear": 1551,
     "dailyMinutesDown": {
       "2025-09-04": 21,
@@ -38,8 +38,7 @@
       "2024-10-02": 19,
       "2024-09-30": 16,
       "2024-09-26": 544,
-      "2024-09-19": 20,
-      "2024-09-06": 20
+      "2024-09-19": 20
     }
   },
   {
@@ -49,14 +48,14 @@
     "slug": "ipsilon-dev",
     "status": "up",
     "uptime": "98.64%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "99.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.43%",
     "time": 1386,
-    "timeDay": 1199,
-    "timeWeek": 1348,
-    "timeMonth": 1240,
+    "timeDay": 1148,
+    "timeWeek": 1396,
+    "timeMonth": 1234,
     "timeYear": 1355,
     "dailyMinutesDown": {
       "2025-09-04": 21,
@@ -78,8 +77,7 @@
       "2024-09-30": 15,
       "2024-09-26": 544,
       "2024-09-25": 17,
-      "2024-09-19": 36,
-      "2024-09-06": 20
+      "2024-09-19": 36
     }
   },
   {
@@ -89,15 +87,15 @@
     "slug": "oec-static-sgu-ru",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.78%",
     "time": 1013,
-    "timeDay": 871,
-    "timeWeek": 998,
-    "timeMonth": 977,
-    "timeYear": 1012,
+    "timeDay": 741,
+    "timeWeek": 961,
+    "timeMonth": 965,
+    "timeYear": 1011,
     "dailyMinutesDown": {
       "2025-09-04": 20,
       "2025-08-29": 18,
@@ -110,8 +108,7 @@
       "2025-01-21": 29,
       "2025-01-09": 16,
       "2024-12-23": 88,
-      "2024-09-26": 543,
-      "2024-09-06": 19
+      "2024-09-26": 543
     }
   }
 ]
