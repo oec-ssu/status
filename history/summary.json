@@ -4,16 +4,16 @@
     "url": "https://ipsilon.sgu.ru",
     "icon": "https://icons.duckduckgo.com/ip3/ipsilon.sgu.ru.ico",
     "slug": "ipsilon",
-    "status": "down",
+    "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "97.71%",
-    "uptimeYear": "99.49%",
+    "uptimeDay": "87.14%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "97.31%",
+    "uptimeYear": "99.45%",
     "time": 1532,
-    "timeDay": 2373,
-    "timeWeek": 1902,
-    "timeMonth": 1976,
+    "timeDay": 1666,
+    "timeWeek": 1918,
+    "timeMonth": 1962,
     "timeYear": 1495,
     "dailyMinutesDown": {
       "2025-06-18": 20,
@@ -42,7 +42,8 @@
       "2026-04-13": 184,
       "2026-05-16": 476,
       "2026-05-17": 519,
-      "2026-06-15": 10
+      "2026-06-16": 27,
+      "2026-06-15": 158
     }
   },
   {
@@ -50,16 +51,16 @@
     "url": "https://ipsilon-dev.sgu.ru",
     "icon": "https://icons.duckduckgo.com/ip3/ipsilon-dev.sgu.ru.ico",
     "slug": "ipsilon-dev",
-    "status": "down",
-    "uptime": "98.86%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.87%",
-    "time": 1287,
-    "timeDay": 1545,
-    "timeWeek": 1708,
-    "timeMonth": 1732,
+    "status": "up",
+    "uptime": "98.85%",
+    "uptimeDay": "87.48%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.84%",
+    "time": 1286,
+    "timeDay": 1599,
+    "timeWeek": 1753,
+    "timeMonth": 1722,
     "timeYear": 1261,
     "dailyMinutesDown": {
       "2025-06-18": 20,
@@ -79,7 +80,8 @@
       "2026-04-03": 39,
       "2026-04-08": 39,
       "2026-04-10": 114,
-      "2026-06-15": 5
+      "2026-06-16": 27,
+      "2026-06-15": 153
     }
   },
   {
@@ -87,17 +89,17 @@
     "url": "https://oec-static.sgu.ru/favicon.ico",
     "icon": "https://icons.duckduckgo.com/ip3/oec-static.sgu.ru.ico",
     "slug": "oec-static-sgu-ru",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.81%",
-    "time": 953,
-    "timeDay": 857,
-    "timeWeek": 753,
-    "timeMonth": 838,
-    "timeYear": 921,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "87.81%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.78%",
+    "time": 951,
+    "timeDay": 695,
+    "timeWeek": 759,
+    "timeMonth": 833,
+    "timeYear": 920,
     "dailyMinutesDown": {
       "2025-06-18": 20,
       "2025-07-08": 19,
@@ -121,7 +123,8 @@
       "2026-04-13": 145,
       "2026-04-12": 2,
       "2026-04-24": 86,
-      "2026-06-15": 0
+      "2026-06-16": 27,
+      "2026-06-15": 148
     }
   }
 ]
