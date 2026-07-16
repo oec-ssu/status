@@ -4,17 +4,17 @@
     "url": "https://ipsilon.sgu.ru",
     "icon": "https://icons.duckduckgo.com/ip3/ipsilon.sgu.ru.ico",
     "slug": "ipsilon",
-    "status": "down",
+    "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.43%",
-    "time": 1545,
-    "timeDay": 2309,
-    "timeWeek": 1983,
-    "timeMonth": 1764,
-    "timeYear": 1513,
+    "uptimeDay": "94.13%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.42%",
+    "time": 1546,
+    "timeDay": 2216,
+    "timeWeek": 2000,
+    "timeMonth": 1775,
+    "timeYear": 1515,
     "dailyMinutesDown": {
       "2025-08-12": 25,
       "2025-08-22": 248,
@@ -44,7 +44,7 @@
       "2026-06-15": 158,
       "2026-07-08": 64,
       "2026-07-07": 74,
-      "2026-07-16": 10
+      "2026-07-16": 84
     }
   },
   {
@@ -52,17 +52,17 @@
     "url": "https://ipsilon-dev.sgu.ru",
     "icon": "https://icons.duckduckgo.com/ip3/ipsilon-dev.sgu.ru.ico",
     "slug": "ipsilon-dev",
-    "status": "down",
-    "uptime": "98.87%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.82%",
-    "time": 1300,
-    "timeDay": 2043,
-    "timeWeek": 1698,
-    "timeMonth": 1588,
-    "timeYear": 1282,
+    "status": "up",
+    "uptime": "98.86%",
+    "uptimeDay": "94.47%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.80%",
+    "time": 1301,
+    "timeDay": 1948,
+    "timeWeek": 1718,
+    "timeMonth": 1596,
+    "timeYear": 1283,
     "dailyMinutesDown": {
       "2025-08-12": 24,
       "2025-08-29": 19,
@@ -83,7 +83,7 @@
       "2026-06-15": 153,
       "2026-07-08": 64,
       "2026-07-07": 70,
-      "2026-07-16": 5
+      "2026-07-16": 80
     }
   },
   {
@@ -91,17 +91,17 @@
     "url": "https://oec-static.sgu.ru/favicon.ico",
     "icon": "https://icons.duckduckgo.com/ip3/oec-static.sgu.ru.ico",
     "slug": "oec-static-sgu-ru",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.76%",
-    "time": 938,
-    "timeDay": 890,
-    "timeWeek": 780,
-    "timeMonth": 775,
-    "timeYear": 897,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "94.80%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.75%",
+    "time": 940,
+    "timeDay": 1251,
+    "timeWeek": 884,
+    "timeMonth": 802,
+    "timeYear": 899,
     "dailyMinutesDown": {
       "2025-08-12": 24,
       "2025-08-29": 18,
@@ -127,7 +127,7 @@
       "2026-06-15": 148,
       "2026-07-08": 64,
       "2026-07-07": 65,
-      "2026-07-16": 0
+      "2026-07-16": 75
     }
   }
 ]
