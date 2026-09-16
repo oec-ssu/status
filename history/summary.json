@@ -4,13 +4,13 @@
     "url": "https://ipsilon.sgu.ru",
     "icon": "https://icons.duckduckgo.com/ip3/ipsilon.sgu.ru.ico",
     "slug": "ipsilon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.44%",
-    "time": 1588,
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.43%",
+    "time": 1587,
     "timeDay": 1732,
     "timeWeek": 1985,
     "timeMonth": 2077,
@@ -41,7 +41,8 @@
       "2026-07-07": 74,
       "2026-07-16": 84,
       "2026-08-18": 44,
-      "2026-09-04": 189
+      "2026-09-04": 189,
+      "2026-09-16": 10
     }
   },
   {
@@ -49,13 +50,13 @@
     "url": "https://ipsilon-dev.sgu.ru",
     "icon": "https://icons.duckduckgo.com/ip3/ipsilon-dev.sgu.ru.ico",
     "slug": "ipsilon-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.81%",
-    "time": 1370,
+    "time": 1369,
     "timeDay": 1585,
     "timeWeek": 1799,
     "timeMonth": 2007,
@@ -78,7 +79,8 @@
       "2026-07-08": 64,
       "2026-07-07": 70,
       "2026-07-16": 80,
-      "2026-08-18": 40
+      "2026-08-18": 40,
+      "2026-09-16": 5
     }
   },
   {
@@ -86,9 +88,9 @@
     "url": "https://oec-static.sgu.ru/favicon.ico",
     "icon": "https://icons.duckduckgo.com/ip3/oec-static.sgu.ru.ico",
     "slug": "oec-static-sgu-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.75%",
@@ -120,7 +122,8 @@
       "2026-07-08": 64,
       "2026-07-07": 65,
       "2026-07-16": 75,
-      "2026-08-18": 35
+      "2026-08-18": 35,
+      "2026-09-16": 0
     }
   }
 ]
