@@ -4,17 +4,17 @@
     "url": "https://ipsilon.sgu.ru",
     "icon": "https://icons.duckduckgo.com/ip3/ipsilon.sgu.ru.ico",
     "slug": "ipsilon",
-    "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.09%",
-    "uptimeYear": "99.13%",
-    "time": 1627,
-    "timeDay": 2312,
-    "timeWeek": 2148,
-    "timeMonth": 2275,
-    "timeYear": 1683,
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "44.11%",
+    "uptimeWeek": "92.02%",
+    "uptimeMonth": "97.28%",
+    "uptimeYear": "98.98%",
+    "time": 1628,
+    "timeDay": 2167,
+    "timeWeek": 2132,
+    "timeMonth": 2267,
+    "timeYear": 1684,
     "dailyMinutesDown": {
       "2025-10-21": 112,
       "2025-11-01": 16,
@@ -45,7 +45,7 @@
       "2026-09-30": 209,
       "2026-10-03": 45,
       "2026-10-02": 135,
-      "2026-10-20": 10
+      "2026-10-20": 805
     }
   },
   {
@@ -53,17 +53,17 @@
     "url": "https://ipsilon-dev.sgu.ru",
     "icon": "https://icons.duckduckgo.com/ip3/ipsilon-dev.sgu.ru.ico",
     "slug": "ipsilon-dev",
-    "status": "down",
-    "uptime": "98.87%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.56%",
-    "time": 1395,
-    "timeDay": 1948,
-    "timeWeek": 1969,
-    "timeMonth": 1822,
-    "timeYear": 1455,
+    "status": "up",
+    "uptime": "98.84%",
+    "uptimeDay": "44.45%",
+    "uptimeWeek": "92.06%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "99.40%",
+    "time": 1396,
+    "timeDay": 1773,
+    "timeWeek": 1922,
+    "timeMonth": 1814,
+    "timeYear": 1456,
     "dailyMinutesDown": {
       "2025-10-21": 111,
       "2025-11-01": 16,
@@ -85,7 +85,7 @@
       "2026-09-17": 602,
       "2026-09-16": 709,
       "2026-10-01": 30,
-      "2026-10-20": 5
+      "2026-10-20": 800
     }
   },
   {
@@ -93,16 +93,16 @@
     "url": "https://oec-static.sgu.ru/favicon.ico",
     "icon": "https://icons.duckduckgo.com/ip3/oec-static.sgu.ru.ico",
     "slug": "oec-static-sgu-ru",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.51%",
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "44.78%",
+    "uptimeWeek": "92.11%",
+    "uptimeMonth": "98.18%",
+    "uptimeYear": "99.36%",
     "time": 966,
-    "timeDay": 986,
-    "timeWeek": 1069,
-    "timeMonth": 1582,
+    "timeDay": 950,
+    "timeWeek": 1050,
+    "timeMonth": 1560,
     "timeYear": 953,
     "dailyMinutesDown": {
       "2025-10-21": 111,
@@ -129,7 +129,7 @@
       "2026-08-18": 35,
       "2026-09-17": 602,
       "2026-09-16": 704,
-      "2026-10-20": 0
+      "2026-10-20": 795
     }
   }
 ]
