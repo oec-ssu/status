@@ -4,17 +4,17 @@
     "url": "https://ipsilon.sgu.ru",
     "icon": "https://icons.duckduckgo.com/ip3/ipsilon.sgu.ru.ico",
     "slug": "ipsilon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.75%",
     "uptimeYear": "99.00%",
     "time": 1640,
-    "timeDay": 1793,
-    "timeWeek": 1888,
-    "timeMonth": 2063,
-    "timeYear": 1707,
+    "timeDay": 1653,
+    "timeWeek": 1841,
+    "timeMonth": 2047,
+    "timeYear": 1706,
     "dailyMinutesDown": {
       "2025-11-07": 50,
       "2025-11-10": 17,
@@ -43,7 +43,8 @@
       "2026-09-30": 209,
       "2026-10-03": 45,
       "2026-10-02": 135,
-      "2026-10-20": 805
+      "2026-10-20": 805,
+      "2026-11-02": 0
     }
   },
   {
